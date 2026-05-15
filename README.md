@@ -1,4 +1,5 @@
 # 🖥️ Suporte TI — Cetec Palmas
+## Andresson Mouzinho de Sousa
 ### Sistema de Gestão de Equipamentos
 
 Sistema web para solicitação e gestão de equipamentos de TI, desenvolvido para uso interno da **Cetec Palmas**. Permite que colaboradores solicitem equipamentos através de um formulário online, enquanto o técnico de TI gerencia os pedidos por uma interface dedicada.
